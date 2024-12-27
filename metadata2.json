@@ -1,0 +1,11 @@
+{
+    "name": "RedApple",
+    "symbol": "RA",
+    "description": "This is RedApple NFT on Solana.",
+    "image": "https://png.pngtree.com/png-clipart/20211013/ourlarge/pngtree-red-apple-cartoon-png-image_3982060.png",
+    "attributes": [
+      { "trait_type": "Ratings", "value": "3.2" },
+      { "trait_type": "Taste", "value": "Decent" }
+    ]
+  }
+  
